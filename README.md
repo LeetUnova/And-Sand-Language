@@ -61,3 +61,9 @@ Don't exist.
 # Examples
 
 The examples are in the repo as `greetings.ands` and `test.ands`.
+
+# Running the Interpreter
+
+You can use the repo to build the interpreter yourself or get the interpreter from releases. You can run it with the command:
+
+`java -jar andsandinterpreter.jar source.ands`
