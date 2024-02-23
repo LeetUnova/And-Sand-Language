@@ -1,0 +1,13 @@
+fun main
+    println Hello! How are you doing?&
+    keyio a
+    println That's cool, what is your name?&
+    keyio name
+    println Ooooh, I think *name is a pretty cool name.&
+    equals tru Leet& *name&
+    @isLeet *tru&
+end
+
+fun isLeet
+    println Yo, you're Leet!&
+end

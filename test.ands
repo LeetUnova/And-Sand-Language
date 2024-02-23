@@ -1,0 +1,14 @@
+fun main
+    %test
+    println what do you think?&
+    %test
+    global hi Hello, World!&
+    println yo, yo, yo : ^hi&
+    keyio test
+    equals jo test& *test&
+    @test *jo&
+end
+
+fun test
+    println hi there&
+end
