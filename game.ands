@@ -1,0 +1,32 @@
+fun main
+    println Unknown: "Oh, you're finally awake."&
+    println 1. "Where am I?"&
+    println 2. "Who are you?"&
+    println 3. "Is that a chicken nugget?"&
+
+    keyio input
+
+    equals cond *input& 1&
+    @where *cond&
+
+    equals cond *input& 2&
+    @who *cond&
+
+    equals cond *input& 3&
+    @nugget *cond&
+end
+
+fun where
+    println "Where am I?"&
+    println Unknown: "I don't know lol."&
+end
+
+fun who
+    println "Who are you?"&
+    println Unknown: "Your cock."&
+end
+
+fun nugget
+    println "Is that an chicken nugget?"&
+    println Unknown: ~orange justice~&
+end
