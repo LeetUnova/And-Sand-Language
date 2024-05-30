@@ -23,7 +23,7 @@ end
 
 fun who
     println "Who are you?"&
-    println Unknown: "Your cock."&
+    println Unknown: "Your dad."&
 end
 
 fun nugget
